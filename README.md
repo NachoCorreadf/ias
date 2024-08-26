@@ -69,4 +69,4 @@ Las inteligencias a rtificiales (IA) son sistemas informáticos diseñados para 
 1. OpenCV: Biblioteca de visión por computadora de código abierto.
 2. Pillow: Biblioteca de procesamiento de imágenes.
 
-# Herramientas de ML en python:
+
